@@ -1,12 +1,23 @@
-## Hi there 👋
+# 🇧🇩 CPI Bangladesh Data & Systems Hub
 
-<!--
 
-**Here are some ideas to get you started:**
+This private hub centralizes the digital resources, data collection forms, and automation workflows that support our essential Health & Nutrition, Sustainable Development, Research & Learning, and Emergency Response Program in Bangladesh.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Core Thematic Areas
+
+
+- **Health & Nutrition:** Community Health Outreach, Health Post (Health Facility Based), and Health System Strengthening Program.
+
+
+- **Sustainable Development:** Water Sanitation and Hygiene (WASH), Clean Energy, Education, and Livelihood Program.
+
+
+- **Research & Learning:** Community-led research and evidence generation.
+
+
+- **Emergency Response:** Empowers communities to prepare and respond to humanitarian emergencies caused by conflict and natural disasters.
+
+
+
+[🌐 Visit our official website for the full mission story](https://www.cpintl.org)
