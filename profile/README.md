@@ -30,7 +30,7 @@ Our work is organized across several key thematic areas, each supported by robus
 This organization is structured to mirror our operational hierarchy, ensuring clarity and security.
 
 - **[📚 Official Documentation (`docs`)](./docs):** Find all user manuals, training guides, and standard operating procedures in our public documentation repository.
-- **[🛠️ Project Templates (`template`)](./template):** Access the master template used to standardize and launch all new project repositories.
+- **[🛠️ Project Templates (`template`)](./projrct-template):** Access the master template used to standardize and launch all new project repositories.
 - **[👥 Our Teams](./orgs/CPI-BGD/teams):** View the structure of our teams, from the Country Office to our field-based Program Sites.
 
 > **Note:** Most of our operational repositories are **private** to protect sensitive program data. Access is managed according to our [Role-Based Access Control (RBAC) policy](#). *(You can link to a policy document in your `docs` repo here later)*.
